@@ -1,0 +1,12 @@
+_____________________________________________________________________________________
+Instalación para el Programa Movimiento Parabólico
+
+1--> Se Ejecuta el archivo java.
+
+2--> Despues de haber realizado la instalación de los archivos anteriores podemos 
+
+     hacer uso de la aplicación por medio del archivo:
+
+    *  MovimientoParabólico.
+
+_____________________________________________________________________________________
